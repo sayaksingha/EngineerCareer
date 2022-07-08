@@ -39,5 +39,9 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 ##   ||  THIS IS MY FIRST WEBSITE   || 
 
  [1. Android Development webcube](https://www.youtube.com/watch?v=HyU4vkZ2NB8&list=PLjVLYmrlmjGdDps6HAwOOVoAtBPAgIOXL)
+ 
  $@?@K$|NGH@
+ 
 ||[2. HECKER EARTH](https://www.hackerearth.com/practice/)
+
+##[3.apptitude]([https://www.hackerearth.com/practice/](https://www.youtube.com/watch?v=eQN_sz2crc0&list=PLYwpaL_SFmcBpa1jwpCbEDespCRF3UPE5))
