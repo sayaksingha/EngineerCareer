@@ -36,7 +36,13 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 #####[    SAYAK FOLDER  ]
-##   ||  THIS IS MY FIRST WEBSITE   || 
+##   ||  THIS IS MY FIRST WEBSITE   || )
+
+
+[3d view understand](https://www.youtube.com/c/JaredOwen)
+
+[Brilliant (discount -Up and atom)](https://brilliant.org/premium/?premium=true&target_object_id=321&target_object_type=quiz&target_object_referrer=%2Fcourses%2Flogic-deduction%2F)
+
 
  [1. Android Development webcube](https://www.youtube.com/watch?v=HyU4vkZ2NB8&list=PLjVLYmrlmjGdDps6HAwOOVoAtBPAgIOXL)
  
