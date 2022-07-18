@@ -50,5 +50,8 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
  
 [2. HECKER EARTH](https://www.hackerearth.com/practice/)
 
-##[3.apptitude]([https://www.hackerearth.com/practice/](https://www.youtube.com/watch?v=eQN_sz2crc0&list=PLYwpaL_SFmcBpa1jwpCbEDespCRF3UPE5))
+###[3.apptitude]([https://www.hackerearth.com/practice/](https://www.youtube.com/watch?v=eQN_sz2crc0&list=PLYwpaL_SFmcBpa1jwpCbEDespCRF3UPE5))
+
 [DSA Sheet](https://docs.google.com/spreadsheets/d/1hXserPuxVoWMG9Hs7y8wVdRCJTcj3xMBAEYUOXQ5Xag/edit#gid=0)
+
+||(Math Road map)[https://youtu.be/OmJ-4B-mS-Y]
